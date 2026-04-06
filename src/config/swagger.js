@@ -29,7 +29,7 @@ const options = {
     },
     servers: [
       {
-        url: "http://localhost:8000",
+        url: "https://finance-dashboard-api-7bkv.onrender.com",
       },
     ],
 
