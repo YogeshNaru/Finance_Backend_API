@@ -122,8 +122,9 @@ This project is designed to demonstrate real-world backend engineering practices
 ### 🛠️ Setup Instructions
 
 ### 1. Clone Repository
-- git clone https://github.com/your-username/wealthflow-api.git
-cd wealthflow-api
+- git clone https://github.com/YogeshNaru/Finance_Backend_API.git
+  
+- cd wealthflow-api
 
 ### 2. Install Dependencies
 - npm install
