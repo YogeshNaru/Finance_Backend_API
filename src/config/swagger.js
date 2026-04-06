@@ -12,6 +12,20 @@ const options = {
 
         This API provides secure endpoints for managing financial records and analytics with role-based access control (RBAC).
 
+        🔑 Test Credentials:
+
+          Admin:
+          email: admin@test.com  
+          password: admin123  
+
+          Analyst:
+          email: analyst@test.com  
+          password: analyst123  
+
+          Viewer:
+          email: viewer@test.com  
+          password: viewer123 
+
         🔐 Authentication Guide (Read Before Testing):
         1. Use the /api/auth/register or /api/auth/login endpoint to authenticate with your credentials.
         2. Copy the JWT token returned in the response.
@@ -23,8 +37,6 @@ const options = {
         - Authentication is required for all protected routes.
         - Ensure the token is valid and not expired.
         - Do not include extra quotes or extra symbols when pasting the token.
-
-          Happy Testing 
        `,
     },
     servers: [
