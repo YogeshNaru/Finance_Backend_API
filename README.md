@@ -9,7 +9,10 @@ This project is designed to demonstrate real-world backend engineering practices
 
 ## 🌐 Live API Documentation URL
 - Swagger Docs:
-- 🔗 App: []
+- 🔗 App: [https://finance-dashboard-api-7bkv.onrender.com/api-docs]
+
+- Live API:
+- 🔗 App: [https://finance-dashboard-api-7bkv.onrender.com]
 
 ---
 
