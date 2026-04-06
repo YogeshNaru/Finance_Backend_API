@@ -16,6 +16,24 @@ This project is designed to demonstrate real-world backend engineering practices
 
 ---
 
+## 🔑 Test Credentials
+
+### Admin
+email: admin@test.com  
+password: admin123  
+
+### Analyst
+email: analyst@test.com  
+password: analyst123  
+
+### Viewer
+email: viewer@test.com  
+password: viewer123  
+
+- These credentials are for testing purposes only.
+
+---
+
 ## ✨ Features
 
 ### 🔐 Authentication & Security
